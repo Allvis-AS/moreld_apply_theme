@@ -1,7 +1,7 @@
 name: moreld_apply_theme
 description: A Flutter plugin for Moreld Apply company theme.
 version: 0.0.1
-homepage: null
+repository: https://github.com/Allvis-AS/moreld_apply_theme.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
